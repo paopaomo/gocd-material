@@ -1,4 +1,4 @@
 FROM stretch
 COPY go.sh /
-ENTRYPOINT echo "Dockerfile demo"
+ENTRYPOINT echo "Dockerfile Demo"
 
