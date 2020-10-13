@@ -1,3 +1,2 @@
-COPY go.sh /
-ENTRYPOINT echo "Dockerfile Demo"
-ENTRYPOINT echo "Dockerfile automated builds"
+ENTRYPOINT ./go.sh
+ENTRYPOINT echo "build successfully"
