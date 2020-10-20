@@ -20,5 +20,3 @@ https://docs.gocd.org/current/introduction/concepts_in_go.html
 https://www.gocd.org/download/#osx
 
 https://www.gocd.org/getting-started/part-1/
-
-test
